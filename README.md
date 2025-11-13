@@ -104,8 +104,13 @@ The app should automatically restart when permission is granted, but a manual re
 
 If you have any issues - create an issue on github so I can take a look at it.
 
-Please ⭐️ the repo if you like it and if it's useful.  
+Please ⭐️ the repo if you like it and if it's useful.
 
+## Support
+
+If EchoX is useful to you, consider supporting its development:
+
+<a href="https://buymeacoffee.com/altic" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## License
 

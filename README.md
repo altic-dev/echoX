@@ -65,6 +65,37 @@ Click the menubar icon → Settings to configure:
 - **Audio Input** - Select your microphone device
 - **Permissions** - Check and enable required permissions
 
+## Troubleshooting
+
+### App Interface
+
+EchoX does not have a traditional window or dock icon. After launching, look for the waveform icon in your menubar (top-right corner of your screen). Click this icon to access Settings and other options.
+
+### Permission Issues
+
+Both Microphone and Accessibility permissions must be granted for EchoX to work properly:
+
+- **Microphone** - Required for audio recording
+- **Accessibility** - Required for global keyboard shortcuts to function
+
+You can verify both permissions are granted in the Settings window (menubar icon → Settings).
+
+### Accessibility Permission Not Working
+
+If the app shows "Accessibility: Denied" even after you have added EchoX to the Accessibility list in System Settings:
+
+1. Quit EchoX completely
+2. Verify EchoX is checked/enabled in: System Settings → Privacy & Security → Accessibility
+3. Relaunch EchoX
+
+The app should automatically restart when permission is granted, but a manual restart may be needed if the permission state is not updating correctly.
+
+### Common Issues
+
+- **Shortcuts not working** - Verify Accessibility permission is granted
+- **No audio recording** - Verify Microphone permission is granted
+- **Can't find the app** - Look for the waveform icon in the menubar (top-right)
+
 ## Default Settings
 
 - Shortcut: cmd + shift + Z [configurable in settings]  
